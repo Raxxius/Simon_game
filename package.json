@@ -1,24 +1,11 @@
 {
-  "name": "simon_game",
-  "version": "1.0.0",
-  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Raxxius/Simon_game.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Raxxius/Simon_game/issues"
-  },
-  "homepage": "https://github.com/Raxxius/Simon_game#readme",
   "devDependencies": {
     "jest": "^27.4.7"
   },
+  "name": "simon_game",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "abab": "^2.0.5",
     "acorn": "^8.7.0",
@@ -261,5 +248,18 @@
     "yallist": "^4.0.0",
     "yargs": "^16.2.0",
     "yargs-parser": "^20.2.9"
-  }
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raxxius/Simon_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raxxius/Simon_game/issues"
+  },
+  "homepage": "https://github.com/Raxxius/Simon_game#readme"
 }

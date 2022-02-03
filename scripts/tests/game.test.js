@@ -2,9 +2,6 @@
  * @jest-environment jsdom
  */
 
-
-const { expect } = require("@jest/globals");
-const { test } = require("picomatch");
 const { game } = require("../game");
 
 beforeAll(() => {
